@@ -1,0 +1,10 @@
+baseURL = "https://heroberts.github.io/"
+languageCode = "en-us"
+title = "Dr. Hannah Roberts"
+theme = "lanyon"
+
+[params]
+description = "Dr. Hannah Roberts"
+title = "Dr. Hannah Roberts"
+tagline = ""
+mainSections = ["homepage"]
