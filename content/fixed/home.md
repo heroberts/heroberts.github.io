@@ -13,4 +13,5 @@ Hi! Welcome to my personal website. A work in progress.
 - [ORCID](https://orcid.org/0000-0001-6978-4737)
 - [Publons](https://publons.com/researcher/593770/hannah-roberts/)
 - [LinkedIn](https://www.linkedin.com/in/hannah-elaine-roberts/)
+- [Github](https://github.com/heroberts/)
 - [Twitter](https://twitter.com/hannah_eroberts)
