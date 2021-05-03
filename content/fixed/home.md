@@ -4,7 +4,7 @@
     "weight": "1"
 }
 
-Hi! Welcome to my personal website. A work in progress.
+Hi! I am  a postdoctoral researcher at the Department of Human Geography and Spatial Planning, Utrecht Unviersity. I work on the "NEEDS" project (Dy*n*amic Urban *E*nvironmental *E*xposures on *D*epression and *S*uicide). Specifically I work on WP2, which examines the association between depression and the environment along people's daily space-time paths. More information on the project is available [here](http://needs.sites.uu.nl/).
 
 
 #### Links
