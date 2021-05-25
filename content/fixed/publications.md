@@ -5,6 +5,7 @@
     "url": "/publications",
     "draft": false
 }
+- Roberts, H., & Helbich, M. (2021). Multiple environmental exposures along daily mobility paths and depressive symptoms: a smartphone-based tracking study. Environment International, 156, 106635. https://doi.org/10.1016/j.envint.2021.106635 [[osf project]](https://osf.io/ygs72/)
 
 - Roberts, H., van Lissa, C., & Helbich, M. (2020). Perceived neighbourhood characteristics and depressive symptoms: Potential mediators and the moderating role of employment status. Social Science & Medicine, 268, 113533. https://doi.org/10.1016/j.socscimed.2020.113533 [[osf project]](https://osf.io/cqwje/)
 
